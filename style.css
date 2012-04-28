@@ -1,0 +1,4 @@
+body { width: 350px; margin: 10em auto; font-family: ‘Oxygen’, sans-serif; font-weight: 300; font-size: 15px; }
+a { color: #084; }
+ul { list-style: none; margin-left: 0; }
+li { display: inline; }
